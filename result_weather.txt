@@ -1,0 +1,17 @@
+<Temp>
+    85: no (1)
+    80: no (1)
+    65: no (1)
+    71: no (1)
+    83: yes (1)
+    70: yes (1)
+    68: yes (1)
+    64: yes (1)
+    69: yes (1)
+    75: yes (2)
+    81: yes (1)
+    72: 
+        <Weather>
+            sunny: no (1)
+            overcast: yes (1)
+

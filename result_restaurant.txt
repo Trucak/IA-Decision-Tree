@@ -1,0 +1,15 @@
+<Pat>
+    Some: Yes (4)
+    None: No (2)
+    Full: 
+        <Hun>
+            No: No (2)
+            Yes: 
+                <Type>
+                    Burger: Yes (1)
+                    Italian: No (1)
+                    Thai: 
+                        <Fri>
+                            Yes: Yes (1)
+                            No: No (1)
+
